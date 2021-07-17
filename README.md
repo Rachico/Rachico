@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehdi Rachico
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Deep Learning and Neural Networks
 - 💞️ I’m looking to collaborate on Deep Learning Projects
 - 📫 How to reach me : mehdirachico@insat.u-carthage.tn
