@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehdi RACHICO</h1>
 <h3 align="center">An Engineering Student who is passionate about Data Science and Deep Learning </h3>
-<p align="center">
+
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**
 - 📫 How to reach me : **mehdirachico@insat.u-carthage.tn**
-</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
