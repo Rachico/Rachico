@@ -6,7 +6,7 @@
 - 📫 How to reach me : **mehdirachico@insat.u-carthage.tn**
 
 <h3 align="center">Languages and Tools:</h3> 
-<hr>
+
 <div align="center">
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/tensorflow.png" alt="python" width="40" height="40"/> </a> 
