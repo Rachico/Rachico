@@ -11,7 +11,7 @@
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
