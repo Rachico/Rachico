@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**
 - 📫 How to reach me : **mehdirachico@insat.u-carthage.tn**
 
-<h3 align="center">Languages and Tools</h3> 
+<h3 align="center"><strong>Languages and Tools</strong></h3> 
 
 <div align="center">
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
