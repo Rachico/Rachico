@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**
-- 📫 How to reach me : **mehdirachico@insat.u-carthage.tn**
+- 📫 How to reach me : **mehdi.rachico@insat.u-carthage.tn**
 
 <h3 align="center">Languages and Tools</h3> 
 
