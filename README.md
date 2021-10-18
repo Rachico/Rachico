@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**
 - 📫 How to reach me : **mehdi.rachico@insat.u-carthage.tn**
-- 🌐 You can check my Personal Website at : **<a href="http://mehdirachico.com/">mehdirachico.com</a>**
+- 🌐 You can check my Personal Website at : **<a href="http://mehdirachico.com/" target="_blank">mehdirachico.com</a>**
 
 <h3 align="center">Languages and Tools</h3> 
 
