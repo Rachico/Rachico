@@ -6,7 +6,7 @@
 - 📫 How to reach me : **mehdi.rachico@insat.u-carthage.tn**
 - 🌐 You can check my Personal Website at : **<a href="http://mehdirachico.com/" target="_blank">mehdirachico.com</a>**
 
-<h3 align="center">Languages and Tools</h3> 
+*<h3 align="center">I worked with :</h3>*
 
 <div align="center">
  <a href="http://mehdirachico.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
