@@ -11,7 +11,7 @@
 <div align="center">
  <a href="http://mehdirachico.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/tensorflow.png" alt="python" width="40" height="40"/> </a> 
-<a href="http://mehdirachico.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/tensorflow.png" alt="python" width="40" height="40"/> </a> 
+<a href="http://mehdirachico.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="python" width="40" height="40"/> </a> 
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://fr.wikipedia.org/wiki/Keras#/media/Fichier:Keras_logo.svg" alt="python" width="40" height="40"/> </a> 
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="python" width="40" height="40"/> </a> 
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="python" width="40" height="40"/> </a> 
