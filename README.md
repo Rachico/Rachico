@@ -6,7 +6,7 @@ An Engineering Student who is passionate about  Data Science, Software Developme
 - 📫 How to reach me : **mehdi.rachico@insat.u-carthage.tn**
 - 🌐 You can check my Personal Website at : **<a href="http://mehdirachico.com/" target="_blank">mehdirachico.com</a>**
 
-### I worked with
+### I worked with :
 <div align="left">
  <a href="http://mehdirachico.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://img.icons8.com/color/480/000000/tensorflow.png" alt="python" width="40" height="40"/> </a> 
