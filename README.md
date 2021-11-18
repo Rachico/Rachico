@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehdi RACHICO</h1>
-<h3 align="center">An Engineering Student who is passionate about  Data Science, Software Development and Machine Learning</h3>
+### Hi there. I'm Mehdi 👋
+An Engineering Student who is passionate about  Data Science, Software Development and Machine Learning
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**
