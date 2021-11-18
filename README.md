@@ -1,4 +1,4 @@
-### Hi there. I'm Mehdi 👋
+### Hi there ! I'm Mehdi 👋
 An Engineering Student who is passionate about  Data Science, Software Development and Machine Learning.
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
