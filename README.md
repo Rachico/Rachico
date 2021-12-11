@@ -1,5 +1,5 @@
 ### Hi there ! I'm Mehdi 👋
-An Engineering Student who is passionate about  Data Science, Software Development and Machine Learning.
+I'm passionate about  Data Science, Software Development and Machine Learning.
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
 - 💞️ I’m looking to collaborate on **Deep Learning Projects**
