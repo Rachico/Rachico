@@ -1,9 +1,8 @@
-### Hi there ! I'm Mehdi 👋
-I'm passionate about  Data Science, Software Development and Machine Learning.
-
-- 🌱 I’m currently learning **Deep Learning and Neural Networks**
-- 💞️ I’m looking to collaborate on **Deep Learning Projects**
-- 📫 How to reach me : **mehdi.rachico@insat.u-carthage.tn**
+### Hi there ! I'm Mehdi 👋,
+A Software Engineer with a passion for Artificial Intelligence.
+- 🌱 I’m currently learning **Deep Learning and NLP**
+- 💞️ I’m looking to collaborate on **Innovative Software Projects**
+- 📫 How to reach me : **mehdirachico@yahoo.com**
 - 🌐 You can check my personal website at : **<a href="http://mehdirachico.com/" target="_blank">mehdirachico.com</a>**
 
 ### I worked with :
