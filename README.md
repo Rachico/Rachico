@@ -1,6 +1,6 @@
 ### Hi there ! I'm Mehdi 👋,
 A Software Engineer with a passion for Artificial Intelligence.
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **Deep Learning & NLP**
 - 💞️ I’m looking to collaborate on **Innovative Software Projects**
 - 📫 How to reach me : **mehdirachico@yahoo.com**
 - 🌐 You can check my personal website at : **<a href="http://mehdirachico.com/" target="_blank">mehdirachico.com</a>**
