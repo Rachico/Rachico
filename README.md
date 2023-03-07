@@ -17,7 +17,6 @@ A Software Engineer with a passion for Artificial Intelligence.
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/numpy.svg" alt="python" width="40" height="40"/> </a>
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="go" width="90" height="40"/></a>
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="go" width="170" height="40"/> </a>
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="illustrator" width="40" height="40"/> </a>
