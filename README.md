@@ -7,7 +7,7 @@ A Software Engineer with a passion for Artificial Intelligence.
 
 ### I work with :
 <div align="left">
- <a href="http://mehdirachico.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <a href="http://mehdirachico.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1024px-Typescript.svg.png" alt="typescript" width="40" height="40"/> </a>
 <a href="http://mehdirachico.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1024px-Postgresql_elephant.svg.png" alt="python" width="40" height="40"/> </a>
  <a href="http://mehdirachico.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="git" width="40" height="40"/> </a>
