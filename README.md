@@ -1,5 +1,5 @@
 ### Hi there ! I'm Mehdi 👋
-A Software Engineer with a passion for Artificial Intelligence.
+A Software Engineer with a passion for artificial intelligence and automating stuff to achieve more.
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
 - 💞️ I’m looking to collaborate on **Innovative Software Projects**
 - 📫 How to reach me : **mehdirachico@yahoo.com**
