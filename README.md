@@ -1,4 +1,4 @@
-### Hi there ! I'm Mehdi 👋,
+### Hi there ! I'm Mehdi :wave::skin-tone-2:,
 A Software Engineer with a passion for Artificial Intelligence.
 - 🌱 I’m currently learning **Deep Learning & NLP**
 - 💞️ I’m looking to collaborate on **Innovative Software Projects**
