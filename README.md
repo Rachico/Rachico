@@ -1,5 +1,5 @@
 ### Hi there ! I'm Mehdi 👋
-I'm a Software Craftsman with a passion for artificial intelligence. I like automating stuff to achieve more.
+I'm a Software Engineer with a passion for software craftsmanship and artificial intelligence. I like automating stuff to achieve more.
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**
 - 💞️ I’m looking to collaborate on **Innovative Software Projects**
 - 📫 How to reach me : **mehdirachico@yahoo.com**
