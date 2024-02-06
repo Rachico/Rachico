@@ -4,8 +4,11 @@ I'm a Software Engineer with a passion for software craftsmanship and artificial
 - I’m looking to collaborate on **Innovative Software Projects**
 - How to reach me : **mehdirachico@yahoo.com**
 - You can check my personal website at : **<a href="http://mehdirachico.com/" target="_blank">mehdirachico.com</a>**
+- 
+<span align="center>
+ ### "I work with : 
+</span>
 
-### I work with :
 <div align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1024px-Typescript.svg.png" alt="typescript" width="40" height="40"/>
