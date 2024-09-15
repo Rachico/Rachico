@@ -1,5 +1,5 @@
 ### Hi, I'm Mehdi!
-I'm a Software Engineer with a passion for software craftsmanship. I’m currently learning deep learning and natural language processing and large languege models. I’m also looking to collaborate on revolutionary software projects.
+I'm a Software Engineer with a passion for software craftsmanship and business. I’m currently learning deep learning and natural language processing and large languege models. I’m also looking to collaborate on revolutionary software projects.
 
 **Languages and Tools:**  
 
