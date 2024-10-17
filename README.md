@@ -1,5 +1,5 @@
 ### Hi, I'm Mehdi!
-I'm passion about software craftsmanship and business. I’m currently learning deep learning and natural language processing and large languege models. I’m looking forward to collaborate on revolutionary software projects.
+I'm passionate about software craftsmanship and business. I’m currently learning deep learning and natural language processing and large languege models. I’m looking forward to collaborate on revolutionary software projects.
 
 **Languages and Tools:**  
 
